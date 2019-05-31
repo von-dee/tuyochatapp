@@ -1,0 +1,5 @@
+#all folders being ignored
+
+android/
+node_modules/
+ios/
